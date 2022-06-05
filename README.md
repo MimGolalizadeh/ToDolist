@@ -1,2 +1,3 @@
 # ToDolist
-simple Todo list app with the options to store tasks, delete and show the list
+simple Todo list app.
+This application takes daily tasks and stores it in the list. You have also some options in the menu such as ADD, DELETE, SHOW, and exit.
